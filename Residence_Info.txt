@@ -1,0 +1,8 @@
+    # 6 pasillos, cada una con 9 números
+# el primer pasillo para HuntDog es el 3
+
+6;9;3
+# plazas ocupadas
+0:1:0;ASX123;20/1/24
+5:3:1;GEA321;12/3/24
+2:4:1;ETB246;16/3/24
