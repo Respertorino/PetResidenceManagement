@@ -8,8 +8,8 @@ and also saves the last modified residence for later use and management.
 Running it although can be a little convoluted, the file "java run.txt" exist as an example run and also running the code
 without the correct amount of parameters prints an example run.
 
-No use of AI was made during the development of this project, I don't use it anyways but at the time I wrote this, AI tools
-were not that much developed anyways.
+No use of AI was made during the development of this project, even though I don't used them that much, at the time I wrote this,
+AI tools were not that much developed anyways.
 
 This was my first java project and it can be a little inefficient and it may have some robustness issues but I tried my
 best and it was also expected of me as it was a graded project.
