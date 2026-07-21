@@ -15,4 +15,4 @@ This was my first java project and it can be a little inefficient and it may hav
 best and it was also expected of me as it was a graded project.
 
 Depending on the character encoding used if you decide to recompile the project, some characters may be missrepresented, as
-the project was ompiled with UTF-16 which includes vocals with tilde and ñ, used in the spanish language.
+the project was compiled with UTF-16 which includes vocals with tilde and ñ, used in the spanish language.
